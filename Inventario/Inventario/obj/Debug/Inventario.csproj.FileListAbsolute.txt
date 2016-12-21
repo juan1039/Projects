@@ -1,0 +1,45 @@
+c:\users\daniel\documents\visual studio 2012\Projects\Inventario\Inventario\bin\Debug\Inventario.exe.config
+C:\Users\Daniel\Documents\Visual Studio 2012\Projects\Inventario\Inventario\bin\Debug\Inventario.exe
+C:\Users\Daniel\Documents\Visual Studio 2012\Projects\Inventario\Inventario\bin\Debug\Inventario.pdb
+C:\Users\Daniel\Documents\Visual Studio 2012\Projects\Inventario\Inventario\obj\Debug\Inventario.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\Visual Studio 2012\Projects\Inventario\Inventario\obj\Debug\Inventario.Form1.resources
+C:\Users\Daniel\Documents\Visual Studio 2012\Projects\Inventario\Inventario\obj\Debug\Inventario.Properties.Resources.resources
+C:\Users\Daniel\Documents\Visual Studio 2012\Projects\Inventario\Inventario\obj\Debug\Inventario.csproj.GenerateResource.Cache
+C:\Users\Daniel\Documents\Visual Studio 2012\Projects\Inventario\Inventario\obj\Debug\Inventario.exe
+C:\Users\Daniel\Documents\Visual Studio 2012\Projects\Inventario\Inventario\obj\Debug\Inventario.pdb
+C:\Users\Daniel\Desktop\Inventario\Inventario\bin\Debug\Inventario.exe.config
+C:\Users\Daniel\Desktop\Inventario\Inventario\obj\Debug\Inventario.exe
+C:\Users\Daniel\Desktop\Inventario\Inventario\obj\Debug\Inventario.pdb
+C:\Users\Daniel\Desktop\Inventario\Inventario\bin\Debug\Inventario.exe
+C:\Users\Daniel\Desktop\Inventario\Inventario\bin\Debug\Inventario.pdb
+C:\Users\Daniel\Desktop\Inventario\Inventario\obj\Debug\Inventario.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\Inventario\Inventario\obj\Debug\Inventario.Form1.resources
+C:\Users\Daniel\Desktop\Inventario\Inventario\obj\Debug\Inventario.Properties.Resources.resources
+C:\Users\Daniel\Desktop\Inventario\Inventario\obj\Debug\Inventario.csproj.GenerateResource.Cache
+C:\Users\Daniel\Desktop\Programas 14\Inventario\Inventario\bin\Debug\Inventario.exe.config
+C:\Users\Daniel\Desktop\Programas 14\Inventario\Inventario\obj\Debug\Inventario.exe
+C:\Users\Daniel\Desktop\Programas 14\Inventario\Inventario\obj\Debug\Inventario.pdb
+E:\Inventario\Inventario\bin\Debug\Inventario.exe.config
+E:\Inventario\Inventario\obj\Debug\Inventario.exe
+E:\Inventario\Inventario\obj\Debug\Inventario.pdb
+E:\Inventario\Inventario\bin\Debug\Inventario.exe
+E:\Inventario\Inventario\bin\Debug\Inventario.pdb
+E:\Inventario\Inventario\obj\Debug\Inventario.csprojResolveAssemblyReference.cache
+E:\Inventario\Inventario\obj\Debug\Inventario.Form1.resources
+E:\Inventario\Inventario\obj\Debug\Inventario.Properties.Resources.resources
+E:\Inventario\Inventario\obj\Debug\Inventario.csproj.GenerateResource.Cache
+C:\Users\Acer E1\Desktop\Nueva carpeta\Inventario\Inventario\bin\Debug\Inventario.exe.config
+C:\Users\Acer E1\Desktop\Nueva carpeta\Inventario\Inventario\obj\Debug\Inventario.exe
+C:\Users\Acer E1\Desktop\Nueva carpeta\Inventario\Inventario\obj\Debug\Inventario.pdb
+C:\Users\juan\Desktop\Inventario\Inventario\bin\Debug\Inventario.exe.config
+C:\Users\juan\Desktop\Inventario\Inventario\obj\Debug\Inventario.exe
+C:\Users\juan\Desktop\Inventario\Inventario\obj\Debug\Inventario.pdb
+C:\Users\juan\Desktop\Inventario\Inventario\bin\Debug\Inventario.exe
+C:\Users\juan\Desktop\Inventario\Inventario\bin\Debug\Inventario.pdb
+C:\Users\juan\Desktop\Inventario\Inventario\obj\Debug\Inventario.csprojResolveAssemblyReference.cache
+C:\Users\juan\Desktop\Inventario\Inventario\obj\Debug\Inventario.Form1.resources
+C:\Users\juan\Desktop\Inventario\Inventario\obj\Debug\Inventario.Properties.Resources.resources
+C:\Users\juan\Desktop\Inventario\Inventario\obj\Debug\Inventario.csproj.GenerateResource.Cache
+C:\Users\juan\Documents\Visual Studio 2013\Projects\Inventario\Inventario\bin\Debug\Inventario.exe.config
+C:\Users\juan\Documents\Visual Studio 2013\Projects\Inventario\Inventario\obj\Debug\Inventario.exe
+C:\Users\juan\Documents\Visual Studio 2013\Projects\Inventario\Inventario\obj\Debug\Inventario.pdb

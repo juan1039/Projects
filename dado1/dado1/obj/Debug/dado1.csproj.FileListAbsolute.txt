@@ -1,0 +1,9 @@
+c:\users\juan\documents\visual studio 2013\Projects\dado1\dado1\bin\Debug\dado1.exe.config
+c:\users\juan\documents\visual studio 2013\Projects\dado1\dado1\bin\Debug\dado1.exe
+c:\users\juan\documents\visual studio 2013\Projects\dado1\dado1\bin\Debug\dado1.pdb
+c:\users\juan\documents\visual studio 2013\Projects\dado1\dado1\obj\Debug\dado1.csprojResolveAssemblyReference.cache
+c:\users\juan\documents\visual studio 2013\Projects\dado1\dado1\obj\Debug\dado1.Form1.resources
+c:\users\juan\documents\visual studio 2013\Projects\dado1\dado1\obj\Debug\dado1.Properties.Resources.resources
+c:\users\juan\documents\visual studio 2013\Projects\dado1\dado1\obj\Debug\dado1.csproj.GenerateResource.Cache
+c:\users\juan\documents\visual studio 2013\Projects\dado1\dado1\obj\Debug\dado1.exe
+c:\users\juan\documents\visual studio 2013\Projects\dado1\dado1\obj\Debug\dado1.pdb

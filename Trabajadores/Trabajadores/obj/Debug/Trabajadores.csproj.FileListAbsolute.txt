@@ -1,0 +1,27 @@
+c:\users\acer e1\documents\visual studio 2013\Projects\Trabajadores\Trabajadores\bin\Debug\Trabajadores.exe.config
+C:\Users\Acer E1\Documents\Visual Studio 2013\Projects\Trabajadores\Trabajadores\bin\Debug\Trabajadores.exe
+C:\Users\Acer E1\Documents\Visual Studio 2013\Projects\Trabajadores\Trabajadores\bin\Debug\Trabajadores.pdb
+C:\Users\Acer E1\Documents\Visual Studio 2013\Projects\Trabajadores\Trabajadores\obj\Debug\Trabajadores.csprojResolveAssemblyReference.cache
+C:\Users\Acer E1\Documents\Visual Studio 2013\Projects\Trabajadores\Trabajadores\obj\Debug\Trabajadores.Form1.resources
+C:\Users\Acer E1\Documents\Visual Studio 2013\Projects\Trabajadores\Trabajadores\obj\Debug\Trabajadores.Properties.Resources.resources
+C:\Users\Acer E1\Documents\Visual Studio 2013\Projects\Trabajadores\Trabajadores\obj\Debug\Trabajadores.csproj.GenerateResource.Cache
+C:\Users\Acer E1\Documents\Visual Studio 2013\Projects\Trabajadores\Trabajadores\obj\Debug\Trabajadores.exe
+C:\Users\Acer E1\Documents\Visual Studio 2013\Projects\Trabajadores\Trabajadores\obj\Debug\Trabajadores.pdb
+C:\Users\juan\Desktop\Trabajadores\Trabajadores\bin\Debug\Trabajadores.exe.config
+C:\Users\juan\Desktop\Trabajadores\Trabajadores\obj\Debug\Trabajadores.exe
+C:\Users\juan\Desktop\Trabajadores\Trabajadores\obj\Debug\Trabajadores.pdb
+C:\Users\juan\Desktop\Trabajadores\Trabajadores\bin\Debug\Trabajadores.exe
+C:\Users\juan\Desktop\Trabajadores\Trabajadores\bin\Debug\Trabajadores.pdb
+C:\Users\juan\Desktop\Trabajadores\Trabajadores\obj\Debug\Trabajadores.csprojResolveAssemblyReference.cache
+C:\Users\juan\Desktop\Trabajadores\Trabajadores\obj\Debug\Trabajadores.Form1.resources
+C:\Users\juan\Desktop\Trabajadores\Trabajadores\obj\Debug\Trabajadores.Properties.Resources.resources
+C:\Users\juan\Desktop\Trabajadores\Trabajadores\obj\Debug\Trabajadores.csproj.GenerateResource.Cache
+C:\Users\juan\Documents\Visual Studio 2013\Projects\Trabajadores\Trabajadores\bin\Debug\Trabajadores.exe.config
+C:\Users\juan\Documents\Visual Studio 2013\Projects\Trabajadores\Trabajadores\obj\Debug\Trabajadores.exe
+C:\Users\juan\Documents\Visual Studio 2013\Projects\Trabajadores\Trabajadores\obj\Debug\Trabajadores.pdb
+C:\Users\juan\Documents\Visual Studio 2013\Projects\Trabajadores\Trabajadores\bin\Debug\Trabajadores.exe
+C:\Users\juan\Documents\Visual Studio 2013\Projects\Trabajadores\Trabajadores\bin\Debug\Trabajadores.pdb
+C:\Users\juan\Documents\Visual Studio 2013\Projects\Trabajadores\Trabajadores\obj\Debug\Trabajadores.csprojResolveAssemblyReference.cache
+C:\Users\juan\Documents\Visual Studio 2013\Projects\Trabajadores\Trabajadores\obj\Debug\Trabajadores.Form1.resources
+C:\Users\juan\Documents\Visual Studio 2013\Projects\Trabajadores\Trabajadores\obj\Debug\Trabajadores.Properties.Resources.resources
+C:\Users\juan\Documents\Visual Studio 2013\Projects\Trabajadores\Trabajadores\obj\Debug\Trabajadores.csproj.GenerateResource.Cache

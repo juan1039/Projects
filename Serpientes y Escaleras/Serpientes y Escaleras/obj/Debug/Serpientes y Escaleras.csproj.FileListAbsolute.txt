@@ -1,0 +1,27 @@
+c:\users\acer e1\documents\visual studio 2013\Projects\Serpientes y Escaleras\Serpientes y Escaleras\bin\Debug\Serpientes y Escaleras.exe.config
+c:\users\acer e1\documents\visual studio 2013\Projects\Serpientes y Escaleras\Serpientes y Escaleras\bin\Debug\Serpientes y Escaleras.exe
+c:\users\acer e1\documents\visual studio 2013\Projects\Serpientes y Escaleras\Serpientes y Escaleras\bin\Debug\Serpientes y Escaleras.pdb
+c:\users\acer e1\documents\visual studio 2013\Projects\Serpientes y Escaleras\Serpientes y Escaleras\obj\Debug\Serpientes y Escaleras.csprojResolveAssemblyReference.cache
+c:\users\acer e1\documents\visual studio 2013\Projects\Serpientes y Escaleras\Serpientes y Escaleras\obj\Debug\Serpientes_y_Escaleras.Form1.resources
+c:\users\acer e1\documents\visual studio 2013\Projects\Serpientes y Escaleras\Serpientes y Escaleras\obj\Debug\Serpientes_y_Escaleras.Properties.Resources.resources
+c:\users\acer e1\documents\visual studio 2013\Projects\Serpientes y Escaleras\Serpientes y Escaleras\obj\Debug\Serpientes y Escaleras.csproj.GenerateResource.Cache
+c:\users\acer e1\documents\visual studio 2013\Projects\Serpientes y Escaleras\Serpientes y Escaleras\obj\Debug\Serpientes y Escaleras.exe
+c:\users\acer e1\documents\visual studio 2013\Projects\Serpientes y Escaleras\Serpientes y Escaleras\obj\Debug\Serpientes y Escaleras.pdb
+C:\Users\juan\Desktop\Serpientes y Escaleras\Serpientes y Escaleras\bin\Debug\Serpientes y Escaleras.exe.config
+C:\Users\juan\Desktop\Serpientes y Escaleras\Serpientes y Escaleras\obj\Debug\Serpientes y Escaleras.exe
+C:\Users\juan\Desktop\Serpientes y Escaleras\Serpientes y Escaleras\obj\Debug\Serpientes y Escaleras.pdb
+C:\Users\juan\Desktop\Serpientes y Escaleras\Serpientes y Escaleras\bin\Debug\Serpientes y Escaleras.exe
+C:\Users\juan\Desktop\Serpientes y Escaleras\Serpientes y Escaleras\bin\Debug\Serpientes y Escaleras.pdb
+C:\Users\juan\Desktop\Serpientes y Escaleras\Serpientes y Escaleras\obj\Debug\Serpientes y Escaleras.csprojResolveAssemblyReference.cache
+C:\Users\juan\Desktop\Serpientes y Escaleras\Serpientes y Escaleras\obj\Debug\Serpientes_y_Escaleras.Form1.resources
+C:\Users\juan\Desktop\Serpientes y Escaleras\Serpientes y Escaleras\obj\Debug\Serpientes_y_Escaleras.Properties.Resources.resources
+C:\Users\juan\Desktop\Serpientes y Escaleras\Serpientes y Escaleras\obj\Debug\Serpientes y Escaleras.csproj.GenerateResource.Cache
+C:\Users\juan\Documents\Visual Studio 2013\Projects\Serpientes y Escaleras\Serpientes y Escaleras\bin\Debug\Serpientes y Escaleras.exe.config
+C:\Users\juan\Documents\Visual Studio 2013\Projects\Serpientes y Escaleras\Serpientes y Escaleras\obj\Debug\Serpientes y Escaleras.exe
+C:\Users\juan\Documents\Visual Studio 2013\Projects\Serpientes y Escaleras\Serpientes y Escaleras\obj\Debug\Serpientes y Escaleras.pdb
+C:\Users\juan\Documents\Visual Studio 2013\Projects\Serpientes y Escaleras\Serpientes y Escaleras\bin\Debug\Serpientes y Escaleras.exe
+C:\Users\juan\Documents\Visual Studio 2013\Projects\Serpientes y Escaleras\Serpientes y Escaleras\bin\Debug\Serpientes y Escaleras.pdb
+C:\Users\juan\Documents\Visual Studio 2013\Projects\Serpientes y Escaleras\Serpientes y Escaleras\obj\Debug\Serpientes y Escaleras.csprojResolveAssemblyReference.cache
+C:\Users\juan\Documents\Visual Studio 2013\Projects\Serpientes y Escaleras\Serpientes y Escaleras\obj\Debug\Serpientes_y_Escaleras.Form1.resources
+C:\Users\juan\Documents\Visual Studio 2013\Projects\Serpientes y Escaleras\Serpientes y Escaleras\obj\Debug\Serpientes_y_Escaleras.Properties.Resources.resources
+C:\Users\juan\Documents\Visual Studio 2013\Projects\Serpientes y Escaleras\Serpientes y Escaleras\obj\Debug\Serpientes y Escaleras.csproj.GenerateResource.Cache

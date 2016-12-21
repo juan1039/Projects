@@ -1,0 +1,9 @@
+c:\users\juan\documents\visual studio 2013\Projects\valoresAleatorios\valoresAleatorios\bin\Debug\valoresAleatorios.exe.config
+c:\users\juan\documents\visual studio 2013\Projects\valoresAleatorios\valoresAleatorios\bin\Debug\valoresAleatorios.exe
+c:\users\juan\documents\visual studio 2013\Projects\valoresAleatorios\valoresAleatorios\bin\Debug\valoresAleatorios.pdb
+c:\users\juan\documents\visual studio 2013\Projects\valoresAleatorios\valoresAleatorios\obj\Debug\valoresAleatorios.csprojResolveAssemblyReference.cache
+c:\users\juan\documents\visual studio 2013\Projects\valoresAleatorios\valoresAleatorios\obj\Debug\valoresAleatorios.Form1.resources
+c:\users\juan\documents\visual studio 2013\Projects\valoresAleatorios\valoresAleatorios\obj\Debug\valoresAleatorios.Properties.Resources.resources
+c:\users\juan\documents\visual studio 2013\Projects\valoresAleatorios\valoresAleatorios\obj\Debug\valoresAleatorios.csproj.GenerateResource.Cache
+c:\users\juan\documents\visual studio 2013\Projects\valoresAleatorios\valoresAleatorios\obj\Debug\valoresAleatorios.exe
+c:\users\juan\documents\visual studio 2013\Projects\valoresAleatorios\valoresAleatorios\obj\Debug\valoresAleatorios.pdb

@@ -1,0 +1,9 @@
+c:\users\juan\documents\visual studio 2013\Projects\SistemaControlProductos\SistemaControlProductos\bin\Debug\SistemaControlProductos.exe.config
+C:\Users\juan\Documents\Visual Studio 2013\Projects\SistemaControlProductos\SistemaControlProductos\bin\Debug\SistemaControlProductos.exe
+C:\Users\juan\Documents\Visual Studio 2013\Projects\SistemaControlProductos\SistemaControlProductos\bin\Debug\SistemaControlProductos.pdb
+C:\Users\juan\Documents\Visual Studio 2013\Projects\SistemaControlProductos\SistemaControlProductos\obj\Debug\SistemaControlProductos.csprojResolveAssemblyReference.cache
+C:\Users\juan\Documents\Visual Studio 2013\Projects\SistemaControlProductos\SistemaControlProductos\obj\Debug\SistemaControlProductos.Form1.resources
+C:\Users\juan\Documents\Visual Studio 2013\Projects\SistemaControlProductos\SistemaControlProductos\obj\Debug\SistemaControlProductos.Properties.Resources.resources
+C:\Users\juan\Documents\Visual Studio 2013\Projects\SistemaControlProductos\SistemaControlProductos\obj\Debug\SistemaControlProductos.csproj.GenerateResource.Cache
+C:\Users\juan\Documents\Visual Studio 2013\Projects\SistemaControlProductos\SistemaControlProductos\obj\Debug\SistemaControlProductos.exe
+C:\Users\juan\Documents\Visual Studio 2013\Projects\SistemaControlProductos\SistemaControlProductos\obj\Debug\SistemaControlProductos.pdb

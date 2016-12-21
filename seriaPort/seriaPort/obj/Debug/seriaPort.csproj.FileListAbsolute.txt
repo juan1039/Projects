@@ -1,0 +1,1 @@
+c:\users\juan\documents\visual studio 2013\Projects\seriaPort\seriaPort\bin\Debug\seriaPort.exe.config

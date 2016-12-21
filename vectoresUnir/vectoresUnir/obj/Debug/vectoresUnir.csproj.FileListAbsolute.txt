@@ -1,0 +1,8 @@
+c:\users\juan\documents\visual studio 2013\Projects\vectoresUnir\vectoresUnir\bin\Debug\vectoresUnir.exe.config
+c:\users\juan\documents\visual studio 2013\Projects\vectoresUnir\vectoresUnir\bin\Debug\vectoresUnir.exe
+c:\users\juan\documents\visual studio 2013\Projects\vectoresUnir\vectoresUnir\bin\Debug\vectoresUnir.pdb
+c:\users\juan\documents\visual studio 2013\Projects\vectoresUnir\vectoresUnir\obj\Debug\vectoresUnir.Form1.resources
+c:\users\juan\documents\visual studio 2013\Projects\vectoresUnir\vectoresUnir\obj\Debug\vectoresUnir.Properties.Resources.resources
+c:\users\juan\documents\visual studio 2013\Projects\vectoresUnir\vectoresUnir\obj\Debug\vectoresUnir.csproj.GenerateResource.Cache
+c:\users\juan\documents\visual studio 2013\Projects\vectoresUnir\vectoresUnir\obj\Debug\vectoresUnir.exe
+c:\users\juan\documents\visual studio 2013\Projects\vectoresUnir\vectoresUnir\obj\Debug\vectoresUnir.pdb

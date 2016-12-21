@@ -1,0 +1,9 @@
+c:\users\juan\documents\visual studio 2013\Projects\aplicacionExamen\aplicacionExamen\bin\Debug\aplicacionExamen.exe.config
+c:\users\juan\documents\visual studio 2013\Projects\aplicacionExamen\aplicacionExamen\bin\Debug\aplicacionExamen.exe
+c:\users\juan\documents\visual studio 2013\Projects\aplicacionExamen\aplicacionExamen\bin\Debug\aplicacionExamen.pdb
+c:\users\juan\documents\visual studio 2013\Projects\aplicacionExamen\aplicacionExamen\obj\Debug\aplicacionExamen.csprojResolveAssemblyReference.cache
+c:\users\juan\documents\visual studio 2013\Projects\aplicacionExamen\aplicacionExamen\obj\Debug\aplicacionExamen.Form1.resources
+c:\users\juan\documents\visual studio 2013\Projects\aplicacionExamen\aplicacionExamen\obj\Debug\aplicacionExamen.Properties.Resources.resources
+c:\users\juan\documents\visual studio 2013\Projects\aplicacionExamen\aplicacionExamen\obj\Debug\aplicacionExamen.csproj.GenerateResource.Cache
+c:\users\juan\documents\visual studio 2013\Projects\aplicacionExamen\aplicacionExamen\obj\Debug\aplicacionExamen.exe
+c:\users\juan\documents\visual studio 2013\Projects\aplicacionExamen\aplicacionExamen\obj\Debug\aplicacionExamen.pdb

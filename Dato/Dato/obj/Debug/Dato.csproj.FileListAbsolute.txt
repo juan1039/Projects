@@ -1,0 +1,9 @@
+c:\users\juan\documents\visual studio 2013\Projects\Dato\Dato\bin\Debug\Dato.exe.config
+c:\users\juan\documents\visual studio 2013\Projects\Dato\Dato\bin\Debug\Dato.exe
+c:\users\juan\documents\visual studio 2013\Projects\Dato\Dato\bin\Debug\Dato.pdb
+c:\users\juan\documents\visual studio 2013\Projects\Dato\Dato\obj\Debug\Dato.csprojResolveAssemblyReference.cache
+c:\users\juan\documents\visual studio 2013\Projects\Dato\Dato\obj\Debug\Dato.Form1.resources
+c:\users\juan\documents\visual studio 2013\Projects\Dato\Dato\obj\Debug\Dato.Properties.Resources.resources
+c:\users\juan\documents\visual studio 2013\Projects\Dato\Dato\obj\Debug\Dato.csproj.GenerateResource.Cache
+c:\users\juan\documents\visual studio 2013\Projects\Dato\Dato\obj\Debug\Dato.exe
+c:\users\juan\documents\visual studio 2013\Projects\Dato\Dato\obj\Debug\Dato.pdb

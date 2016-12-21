@@ -1,0 +1,9 @@
+c:\users\juan\documents\visual studio 2013\Projects\Tortuga\Tortuga\bin\Debug\Tortuga.exe.config
+C:\Users\juan\Documents\Visual Studio 2013\Projects\Tortuga\Tortuga\bin\Debug\Tortuga.exe
+C:\Users\juan\Documents\Visual Studio 2013\Projects\Tortuga\Tortuga\bin\Debug\Tortuga.pdb
+C:\Users\juan\Documents\Visual Studio 2013\Projects\Tortuga\Tortuga\obj\Debug\Tortuga.csprojResolveAssemblyReference.cache
+C:\Users\juan\Documents\Visual Studio 2013\Projects\Tortuga\Tortuga\obj\Debug\Tortuga.Form1.resources
+C:\Users\juan\Documents\Visual Studio 2013\Projects\Tortuga\Tortuga\obj\Debug\Tortuga.Properties.Resources.resources
+C:\Users\juan\Documents\Visual Studio 2013\Projects\Tortuga\Tortuga\obj\Debug\Tortuga.csproj.GenerateResource.Cache
+C:\Users\juan\Documents\Visual Studio 2013\Projects\Tortuga\Tortuga\obj\Debug\Tortuga.exe
+C:\Users\juan\Documents\Visual Studio 2013\Projects\Tortuga\Tortuga\obj\Debug\Tortuga.pdb

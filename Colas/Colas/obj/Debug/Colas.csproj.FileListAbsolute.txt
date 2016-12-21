@@ -1,0 +1,9 @@
+c:\users\juan\documents\visual studio 2013\Projects\Colas\Colas\bin\Debug\Colas.exe.config
+c:\users\juan\documents\visual studio 2013\Projects\Colas\Colas\bin\Debug\Colas.exe
+c:\users\juan\documents\visual studio 2013\Projects\Colas\Colas\bin\Debug\Colas.pdb
+c:\users\juan\documents\visual studio 2013\Projects\Colas\Colas\obj\Debug\Colas.csprojResolveAssemblyReference.cache
+c:\users\juan\documents\visual studio 2013\Projects\Colas\Colas\obj\Debug\Colas.Form1.resources
+c:\users\juan\documents\visual studio 2013\Projects\Colas\Colas\obj\Debug\Colas.Properties.Resources.resources
+c:\users\juan\documents\visual studio 2013\Projects\Colas\Colas\obj\Debug\Colas.csproj.GenerateResource.Cache
+c:\users\juan\documents\visual studio 2013\Projects\Colas\Colas\obj\Debug\Colas.exe
+c:\users\juan\documents\visual studio 2013\Projects\Colas\Colas\obj\Debug\Colas.pdb

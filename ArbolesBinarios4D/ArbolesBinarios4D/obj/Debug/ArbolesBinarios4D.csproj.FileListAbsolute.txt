@@ -1,0 +1,21 @@
+c:\users\humberto\documents\visual studio 2013\Projects\ArbolesBinarios4D\ArbolesBinarios4D\bin\Debug\ArbolesBinarios4D.exe.config
+c:\users\humberto\documents\visual studio 2013\Projects\ArbolesBinarios4D\ArbolesBinarios4D\bin\Debug\ArbolesBinarios4D.exe
+c:\users\humberto\documents\visual studio 2013\Projects\ArbolesBinarios4D\ArbolesBinarios4D\bin\Debug\ArbolesBinarios4D.pdb
+c:\users\humberto\documents\visual studio 2013\Projects\ArbolesBinarios4D\ArbolesBinarios4D\obj\Debug\ArbolesBinarios4D.csprojResolveAssemblyReference.cache
+c:\users\humberto\documents\visual studio 2013\Projects\ArbolesBinarios4D\ArbolesBinarios4D\obj\Debug\ArbolesBinarios4D.Form1.resources
+c:\users\humberto\documents\visual studio 2013\Projects\ArbolesBinarios4D\ArbolesBinarios4D\obj\Debug\ArbolesBinarios4D.Properties.Resources.resources
+c:\users\humberto\documents\visual studio 2013\Projects\ArbolesBinarios4D\ArbolesBinarios4D\obj\Debug\ArbolesBinarios4D.csproj.GenerateResource.Cache
+c:\users\humberto\documents\visual studio 2013\Projects\ArbolesBinarios4D\ArbolesBinarios4D\obj\Debug\ArbolesBinarios4D.exe
+c:\users\humberto\documents\visual studio 2013\Projects\ArbolesBinarios4D\ArbolesBinarios4D\obj\Debug\ArbolesBinarios4D.pdb
+C:\Users\johnny C\Documents\Visual Studio 2013\Projects\ArbolesBinarios4D\ArbolesBinarios4D\bin\Debug\ArbolesBinarios4D.exe.config
+C:\Users\johnny C\Documents\Visual Studio 2013\Projects\ArbolesBinarios4D\ArbolesBinarios4D\obj\Debug\ArbolesBinarios4D.exe
+C:\Users\johnny C\Documents\Visual Studio 2013\Projects\ArbolesBinarios4D\ArbolesBinarios4D\obj\Debug\ArbolesBinarios4D.pdb
+C:\Users\juan\Documents\Visual Studio 2013\Projects\ArbolesBinarios4D\ArbolesBinarios4D\bin\Debug\ArbolesBinarios4D.exe.config
+C:\Users\juan\Documents\Visual Studio 2013\Projects\ArbolesBinarios4D\ArbolesBinarios4D\obj\Debug\ArbolesBinarios4D.exe
+C:\Users\juan\Documents\Visual Studio 2013\Projects\ArbolesBinarios4D\ArbolesBinarios4D\obj\Debug\ArbolesBinarios4D.pdb
+C:\Users\juan\Documents\Visual Studio 2013\Projects\ArbolesBinarios4D\ArbolesBinarios4D\obj\Debug\ArbolesBinarios4D.csprojResolveAssemblyReference.cache
+C:\Users\juan\Documents\Visual Studio 2013\Projects\ArbolesBinarios4D\ArbolesBinarios4D\obj\Debug\ArbolesBinarios4D.Form1.resources
+C:\Users\juan\Documents\Visual Studio 2013\Projects\ArbolesBinarios4D\ArbolesBinarios4D\obj\Debug\ArbolesBinarios4D.Properties.Resources.resources
+C:\Users\juan\Documents\Visual Studio 2013\Projects\ArbolesBinarios4D\ArbolesBinarios4D\obj\Debug\ArbolesBinarios4D.csproj.GenerateResource.Cache
+C:\Users\juan\Documents\Visual Studio 2013\Projects\ArbolesBinarios4D\ArbolesBinarios4D\bin\Debug\ArbolesBinarios4D.exe
+C:\Users\juan\Documents\Visual Studio 2013\Projects\ArbolesBinarios4D\ArbolesBinarios4D\bin\Debug\ArbolesBinarios4D.pdb

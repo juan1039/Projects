@@ -1,0 +1,9 @@
+c:\users\juan\documents\visual studio 2013\Projects\prueba1\prueba1\bin\Debug\prueba1.exe.config
+c:\users\juan\documents\visual studio 2013\Projects\prueba1\prueba1\bin\Debug\prueba1.exe
+c:\users\juan\documents\visual studio 2013\Projects\prueba1\prueba1\bin\Debug\prueba1.pdb
+c:\users\juan\documents\visual studio 2013\Projects\prueba1\prueba1\obj\Debug\prueba1.csprojResolveAssemblyReference.cache
+c:\users\juan\documents\visual studio 2013\Projects\prueba1\prueba1\obj\Debug\prueba1.Form1.resources
+c:\users\juan\documents\visual studio 2013\Projects\prueba1\prueba1\obj\Debug\prueba1.Properties.Resources.resources
+c:\users\juan\documents\visual studio 2013\Projects\prueba1\prueba1\obj\Debug\prueba1.csproj.GenerateResource.Cache
+c:\users\juan\documents\visual studio 2013\Projects\prueba1\prueba1\obj\Debug\prueba1.exe
+c:\users\juan\documents\visual studio 2013\Projects\prueba1\prueba1\obj\Debug\prueba1.pdb

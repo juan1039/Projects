@@ -1,0 +1,9 @@
+c:\users\juan\documents\visual studio 2013\Projects\practicaEnClase\practicaEnClase\bin\Debug\practicaEnClase.exe.config
+C:\Users\juan\documents\visual studio 2013\Projects\practicaEnClase\practicaEnClase\bin\Debug\practicaEnClase.exe
+C:\Users\juan\documents\visual studio 2013\Projects\practicaEnClase\practicaEnClase\bin\Debug\practicaEnClase.pdb
+C:\Users\juan\documents\visual studio 2013\Projects\practicaEnClase\practicaEnClase\obj\Debug\practicaEnClase.csprojResolveAssemblyReference.cache
+C:\Users\juan\documents\visual studio 2013\Projects\practicaEnClase\practicaEnClase\obj\Debug\practicaEnClase.Form1.resources
+C:\Users\juan\documents\visual studio 2013\Projects\practicaEnClase\practicaEnClase\obj\Debug\practicaEnClase.Properties.Resources.resources
+C:\Users\juan\documents\visual studio 2013\Projects\practicaEnClase\practicaEnClase\obj\Debug\practicaEnClase.csproj.GenerateResource.Cache
+C:\Users\juan\documents\visual studio 2013\Projects\practicaEnClase\practicaEnClase\obj\Debug\practicaEnClase.exe
+C:\Users\juan\documents\visual studio 2013\Projects\practicaEnClase\practicaEnClase\obj\Debug\practicaEnClase.pdb

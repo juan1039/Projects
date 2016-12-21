@@ -1,0 +1,9 @@
+c:\users\juan\documents\visual studio 2013\Projects\ListasCirculares\ListasCirculares\bin\Debug\ListasCirculares.exe.config
+C:\Users\juan\documents\visual studio 2013\Projects\ListasCirculares\ListasCirculares\bin\Debug\ListasCirculares.exe
+C:\Users\juan\documents\visual studio 2013\Projects\ListasCirculares\ListasCirculares\bin\Debug\ListasCirculares.pdb
+C:\Users\juan\documents\visual studio 2013\Projects\ListasCirculares\ListasCirculares\obj\Debug\ListasCirculares.csprojResolveAssemblyReference.cache
+C:\Users\juan\documents\visual studio 2013\Projects\ListasCirculares\ListasCirculares\obj\Debug\ListasCirculares.Form1.resources
+C:\Users\juan\documents\visual studio 2013\Projects\ListasCirculares\ListasCirculares\obj\Debug\ListasCirculares.Properties.Resources.resources
+C:\Users\juan\documents\visual studio 2013\Projects\ListasCirculares\ListasCirculares\obj\Debug\ListasCirculares.csproj.GenerateResource.Cache
+C:\Users\juan\documents\visual studio 2013\Projects\ListasCirculares\ListasCirculares\obj\Debug\ListasCirculares.exe
+C:\Users\juan\documents\visual studio 2013\Projects\ListasCirculares\ListasCirculares\obj\Debug\ListasCirculares.pdb
